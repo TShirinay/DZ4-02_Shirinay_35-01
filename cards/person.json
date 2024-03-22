@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Dominic Toretto",
+    "age": 33,
+    "photo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE9yt6jGt49m9tWYDN2KA-TBqOky7N4AoG1qivL4WUIQtr8tjcz3xRSFcxhqcyjijd9onLMciYhBF75zaPCif499Q_CPvzF6k5xc8pSBdgn5-oJOjtXTWYzIkscHLYXAn0Ab856b5aL5E/s1600/dominik-toretto.jpg"
+  },
+  {
+    "name": "Brian O'Conner",
+    "age": 28,
+    "photo": "https://images.thevoicemag.ru/upload/img_cache/e69/e69dfffb8d9d07666805b53467a31244_cropped_666x900.jpg"
+  },
+  {
+    "name": "Letty Ortiz",
+    "age": 23,
+    "photo": "https://static.mose.rocks/uploads/pics/05/47/850.jpg"
+  },
+  {
+    "name": "Mia Toretto",
+    "age": 21,
+    "photo": "https://i.pinimg.com/736x/42/10/fb/4210fb2088276518ecc91d5d8b17a7c7.jpg"
+  },
+  {
+    "name": "Vince",
+    "age": 29,
+    "photo": "https://lostfilm.info/images/photo_actor/51/593349_509789.jpg"
+  }
+]
